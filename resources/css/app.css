@@ -1,0 +1,18 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    background-color: #f5f7fb;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+.page-header {
+    margin-bottom: 1.5rem;
+}
+
+.auth-card {
+    max-width: 32rem;
+}
